@@ -1,7 +1,7 @@
 {
   "domain": "brinquedosbrinkben.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#28d1da",
+  "primary_color": "#05b1b1",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -13,9 +13,9 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Montserrat",
   "favicon": "/img/uploads/logo-melhor.png",
-  "icons_font": "font-awesome",
+  "icons_font": "line-awesome",
   "country_code": "BR",
   "secondary_color": "#e7112d",
   "icon": "/img/uploads/logo-melhor.png",
