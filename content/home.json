@@ -27,7 +27,7 @@
       "title": "Mais Vendidos",
       "headless": false,
       "limit": 12,
-      "page": 1
+      "page": 2
     },
     {
       "type": "page-title",
