@@ -24,7 +24,7 @@
       "shuffle": true,
       "collection_id": null,
       "sort": "news",
-      "title": "Mais vendidos",
+      "title": "Mais Vendidos",
       "headless": false,
       "limit": 12,
       "page": 1
