@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Envio rápido para todo o Brasil"
   },
   "installments": {
     "show": true,
@@ -9,7 +9,8 @@
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Click no link e siga nossa página no instagram",
+    "link": "https://www.instagram.com/brinquedos_brink_ben/"
   },
   "promo": {
     "show": true,
