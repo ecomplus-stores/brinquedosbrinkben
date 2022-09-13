@@ -33,6 +33,11 @@
       "type": "page-title",
       "title": "Brinquedos Brink Ben",
       "description": "Loja especializada em brinquedos e jogos educativos. Aqui você encontra estímulos para diversas fases do desenvolvimento das crianças."
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
     }
   ]
 }
