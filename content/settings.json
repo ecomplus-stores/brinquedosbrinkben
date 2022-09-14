@@ -1,7 +1,7 @@
 {
   "domain": "brinquedosbrinkben.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#05b1b1",
+  "primary_color": "#4dbfc5",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -17,7 +17,7 @@
   "favicon": "/img/uploads/logo-melhor.png",
   "icons_font": "line-awesome",
   "country_code": "BR",
-  "secondary_color": "#d876a2",
+  "secondary_color": "#cf608a",
   "icon": "/img/uploads/logo-melhor.png",
   "store_id": 47710,
   "description": "Para um Brincar livre, criativo e cheio de descobertas e aprendizado! \n\n",
