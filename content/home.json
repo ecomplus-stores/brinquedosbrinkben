@@ -30,7 +30,7 @@
       "shuffle": true,
       "collection_id": null,
       "sort": "news",
-      "title": "Mais Vendidos",
+      "title": "NOVIDADES",
       "headless": false,
       "limit": 12,
       "page": 2
