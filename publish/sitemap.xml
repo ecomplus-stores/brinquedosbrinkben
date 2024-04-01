@@ -1706,6 +1706,12 @@
     </url>
   
     <url>
+      <loc>https://www.brinquedosbrinkben.com.br/jogo-pula-animais-10cm</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.brinquedosbrinkben.com.br/por-idade</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1844,13 +1850,13 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/sobre-nos</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/trocas</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/trocas</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1886,13 +1892,13 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/admin/index</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/app/index</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
