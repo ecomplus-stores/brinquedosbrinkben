@@ -110,12 +110,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/novidades</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/tabuleiro-de-letras-ilustradas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1814,9 +1808,9 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/livro-com-massinha-monta-robos</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/novidades</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
+      <priority>0.8</priority>
     </url>
   
     <url>
@@ -1826,13 +1820,13 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/entrega</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/pagamentos</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
