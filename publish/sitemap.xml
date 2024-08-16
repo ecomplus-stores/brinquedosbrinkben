@@ -1694,6 +1694,12 @@
     </url>
   
     <url>
+      <loc>https://www.brinquedosbrinkben.com.br/brincando-com-massinha</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.brinquedosbrinkben.com.br/por-idade</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
