@@ -110,6 +110,12 @@
     </url>
   
     <url>
+      <loc>https://www.brinquedosbrinkben.com.br/novidades</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.brinquedosbrinkben.com.br/primeiros-calculos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -380,12 +386,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/centopeia-naninha-mola</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/jogo-move-ball</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -417,12 +417,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/sobreposto-humano</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/sequencias-diferencionas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -626,12 +620,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/carga-magnetica</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/peteleco</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -782,12 +770,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/dobble</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/geometric</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -872,12 +854,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/super-futebol-game</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/lucy-fashion-moda---troca-roupa</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -926,12 +902,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/quadro-peixe-de-pintura</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/kit-escolar-maleta</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -939,12 +909,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/jogo-gangorra-do-macaco</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/dinossauro-monta-e-desmonta</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1808,12 +1772,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/novidades</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1880,13 +1838,13 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/app/index</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/admin/index</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
