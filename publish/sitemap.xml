@@ -1472,24 +1472,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/torre-baby</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/chaveiro-baby</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/teacher-monkey</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/martelinho</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1562,13 +1544,19 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/mquina-de-tranar-o-cabelo</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/teacher-monkey</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/giz-mgico</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/chaveiro-baby</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/torre-baby</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
