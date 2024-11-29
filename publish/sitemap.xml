@@ -2,6 +2,114 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://www.brinquedosbrinkben.com.br/por-idade</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/categoria-habilidades</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/3-a-12-meses</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/1-ano</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/categoria-2-anos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/categoria-3-anos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/categoria-4-anos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/categoria-5-anos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/categoria-6-anos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/acima-de-7-anos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/faz-de-conta</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/educativos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/coordenacao-motora</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/criatividade</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/jogos-de-tabuleiro-e-desafios</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/fantasias</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/livros</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/sensoriais</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.brinquedosbrinkben.com.br/primeiros-calculos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -338,12 +446,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/centopeia-game</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/fantasia-vestido-corujita</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -356,12 +458,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/fantasia-batman</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/fantasia-bruxinha</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -369,12 +465,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/fantasia-unicornio</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/fantasia-super-man</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -536,12 +626,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/jogo-equilibrando-discos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/walkie-talkie-forca-em-acao</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -639,12 +723,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/livro-com-massinha-monta-robos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/juntando-silabas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -758,12 +836,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/jogo-up</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/jogo-basketball-jump</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -789,12 +861,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/caixa-de-pecas-lego-duplo</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/lego-wish</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -843,12 +909,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/treino-visual</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/os-equilibristas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1028,12 +1088,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/jogo-meu-amigo-comilao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/domino-dos-animais</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1160,12 +1214,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/boneca-autista-c271</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/boneca-autista-c271-c694</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1173,12 +1221,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/boneca-autista-c271-c694-c830</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/boneca-autista-c271-c694-c830-c146</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1490,12 +1532,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/gira-gira-tubarao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/pista-hot-wheels</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1599,12 +1635,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/quebra-cabeca-justice-league</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/quebra-cabeca-hot-wheels</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1802,114 +1832,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/por-idade</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/categoria-habilidades</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/3-a-12-meses</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/1-ano</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/categoria-2-anos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/categoria-3-anos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/categoria-4-anos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/categoria-5-anos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/categoria-6-anos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/acima-de-7-anos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/faz-de-conta</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/educativos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/coordenacao-motora</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/criatividade</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/jogos-de-tabuleiro-e-desafios</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/fantasias</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/livros</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/sensoriais</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/novidades</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1934,13 +1856,13 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/privacidade</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/sobre-nos</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
