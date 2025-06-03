@@ -1718,6 +1718,12 @@
     </url>
   
     <url>
+      <loc>https://www.brinquedosbrinkben.com.br/mordedor-gira-gira-c-chocalho---elka</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.brinquedosbrinkben.com.br/por-idade</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1850,13 +1856,13 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/sobre-nos</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/privacidade</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
