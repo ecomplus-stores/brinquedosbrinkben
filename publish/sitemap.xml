@@ -110,12 +110,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/novidades</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/primeiros-calculos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1706,6 +1700,18 @@
     </url>
   
     <url>
+      <loc>https://www.brinquedosbrinkben.com.br/prancha-colorida---polibrinq</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/novidades</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.brinquedosbrinkben.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1718,13 +1724,13 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/privacidade</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/pagamentos</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
