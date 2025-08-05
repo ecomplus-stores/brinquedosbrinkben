@@ -1676,6 +1676,24 @@
     </url>
   
     <url>
+      <loc>https://www.brinquedosbrinkben.com.br/molda-mundo-massinha-para-modelar-carimbo</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/blocolandia-para-criar-sem-limites---120-pecas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/novidades</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.brinquedosbrinkben.com.br/por-idade</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1779,12 +1797,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/sensoriais</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/novidades</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
