@@ -320,12 +320,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/desafio-das-funcoes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/quebra-cabeca--alfabetico</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -357,12 +351,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/desafio-iq-circuit-game</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/jogo-alinha-4-conecte-o-giro</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -512,19 +500,7 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/jogo-detetive</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/jogo-lab-42</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/puzzle-progressivo-gabbys</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -704,12 +680,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/jogos-alfabetizacao</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/cartas-associativas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -878,25 +848,7 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/jogo-diverso-patrulha-canina-lanca-bolinhas---elka</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/jogo-da-memoria-spider-man</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/brinquedo-para-bebe-encaixe-cor</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/brinquedo-educativo-trenzinho-baby-land-28-blocos</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -932,18 +884,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/brinquedo-para-montar-box-engrenagens-blocolandia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/diario-meu-livro-magico-gamers---dcl</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/brinquedo-educativo-alinhavo-6-animais-em-madeira</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -957,18 +897,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/caneta-hidrografica-pinta-e-boia-com-12-unidades</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/jogo-de-tabuleiro-divertidamente-super-trilha</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/livro-brinquedo-ilustrado-kit-divertido-barbie</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1047,12 +975,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/massa-para-modelar-criativa-grill-7-pecas</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/quebra-cabeca-cartonado-patrulha-canina-60-pecas-lente-magica</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1196,30 +1118,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/tapete-magico-acqua---avengers</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/tapete-magico-acqua---princesas-disney</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/tapete-magico-acqua---barbie</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/tapete-magico-acqua---hot-wheels</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/jogo-de-tabuleiro-ludo---coluna</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1322,19 +1220,7 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/martelinho-infantil--mordedor-e-chocalho----pais-e-filhos</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/quebra-cabeca-madeira-cade-meu-par--bichos-18-pecas---brincadeira-de-crianca</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/livro-de-colorir-comfy-e-fluffy-96-paginas-espiral-capa-dura</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1695,6 +1581,12 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/lanterna-led-de-dedo-cores-mistas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/robo-estica-e-puxa----sensorial</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
