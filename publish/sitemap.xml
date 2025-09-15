@@ -1718,6 +1718,12 @@
     </url>
   
     <url>
+      <loc>https://www.brinquedosbrinkben.com.br/kit-6-carrinhos-do-patrulha-canina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.brinquedosbrinkben.com.br/por-idade</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1880,15 +1886,15 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
