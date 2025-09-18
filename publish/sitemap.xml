@@ -110,6 +110,12 @@
     </url>
   
     <url>
+      <loc>https://www.brinquedosbrinkben.com.br/novidades</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.brinquedosbrinkben.com.br/lousa-magnetica-monta-faces</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1877,12 +1883,6 @@
       <loc>https://www.brinquedosbrinkben.com.br/carrinho-de-boneca-3-em-1-rosa---maral</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/novidades</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
     </url>
   
     <url>
