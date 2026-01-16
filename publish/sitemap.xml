@@ -374,12 +374,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/album-do-bebe</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/meu-primeiro-controle-de-videogame---multikids-primeira-infancia</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1094,12 +1088,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/tapete-pintura---c-caneta-a-base-de-agua-e-moldes</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/piano-inteligente---baby</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1131,12 +1119,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/boneco-do-minecrafth---stive-ou-creeper</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/ventosas---numeros-e-formas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1239,12 +1221,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/jogo-da-velha-eletronico-recarregavel</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/maquina-de-bolha-de-fumaca</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1508,12 +1484,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/penteadeira-encantada</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/pescaria-jacare-hora-banho-4pcs</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1580,12 +1550,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/bonecas-de-pano-com-bebe-no-sling</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/boneca-e-boneco-autista</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1611,12 +1575,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/caixinha-revelacao-menino-ou-menina</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/boneco-de-pano---astronauta</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1712,12 +1670,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/carro-controle-remoto-360</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/piscina-fundo-do-mar-90-l</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1797,6 +1749,12 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/sequencia---logica-mdf</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/link---ana-carla-cliente-especial</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1922,25 +1880,25 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/entrega</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/sobre-nos</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
