@@ -1748,6 +1748,12 @@
     </url>
   
     <url>
+      <loc>https://www.brinquedosbrinkben.com.br/novidades</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.brinquedosbrinkben.com.br/por-idade</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1851,12 +1857,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/sensoriais</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/novidades</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
