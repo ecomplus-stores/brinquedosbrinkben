@@ -740,19 +740,7 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/kit-de-colorir---babie-patrulha</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/livro-de-colorir---labubu-amigo-monstrinho</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/massinha-para-modelar-com-moldes--fazendinha</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1892,13 +1880,13 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/entrega</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/contato</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
