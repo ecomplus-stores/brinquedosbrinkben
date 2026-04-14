@@ -1766,12 +1766,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/cliente-especial---lisia--krieger</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/por-idade</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1886,6 +1880,12 @@
     </url>
   
     <url>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.brinquedosbrinkben.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1899,12 +1899,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/pages/privacidade</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
