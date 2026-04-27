@@ -62,12 +62,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/quebra-cabeca-vagando-pelo-espaco</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/giz-magico</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -75,12 +69,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/baleia-lancadora-pedal-e-disco</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/jogo-sequence</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -171,18 +159,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/brinquedo-educativo-alinhavo-6-animais-em-madeira</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/caneta-hidrografica-pinta-e-boia-com-12-unidades</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/quebra-cabeca-cartonado-divertidamente-2-100-pecas</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -458,12 +434,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/aventura-espacial---circuito-interativo</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/caca-abelhinhas---gira-e-lanca</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -524,12 +494,6 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/batedeira-infantil-el-rico---com-luz-e-som</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/maquina--de-lavar-com-luz-e-som</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -573,12 +537,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/cubos-coloridos-com-numeros---toy-mix</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/caminhao-do-lixo-ou-bombeiro---com-luzes-e-sons</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
@@ -1784,7 +1742,7 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/pagamentos</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1796,13 +1754,13 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/entrega</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/sobre-nos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/sobre-nos</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
