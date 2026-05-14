@@ -1628,6 +1628,12 @@
     </url>
   
     <url>
+      <loc>https://www.brinquedosbrinkben.com.br/livro-de-atividades-c-adesivos----guerreiras-do-k-pop-capivara-sonic</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://www.brinquedosbrinkben.com.br/por-idade</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1790,15 +1796,15 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/</loc>
-      <changefreq>daily</changefreq>
-      <priority>1</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/</loc>
+      <changefreq>daily</changefreq>
+      <priority>1</priority>
     </url>
   
     <url>
@@ -1814,15 +1820,15 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/maintenance/index</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/maintenance/index</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
 </urlset>
