@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.70b0990787b10ad89bbf4e599fe2b306.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.043e6eda8c1d7c82832eddb77253069f.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.9f70fd1c9f6135de21440c0e0f583fac.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.d317f7faa0255fe7d892cd4d0c68b0ae.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.c87e3bf003016d700d1634bb43724d5f.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "brinquedosbrinkben",
+  "short_name": "brinquedosbrinkben",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Para um Brincar livre, criativo e cheio de descobertas e aprendizado! \n\n",
+  "background_color": "#ffffff",
+  "theme_color": "#4dbfc5"
+}
