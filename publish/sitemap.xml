@@ -1886,19 +1886,13 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/pagamentos</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
       <loc>https://www.brinquedosbrinkben.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/pages/privacidade</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/pagamentos</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1916,6 +1910,12 @@
     </url>
   
     <url>
+      <loc>https://www.brinquedosbrinkben.com.br/pages/privacidade</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://www.brinquedosbrinkben.com.br/posts/esta-loja-e-um-pwa</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1923,12 +1923,6 @@
   
     <url>
       <loc>https://www.brinquedosbrinkben.com.br/404</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://www.brinquedosbrinkben.com.br/blog</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -1946,13 +1940,19 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/app/index</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://www.brinquedosbrinkben.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/admin/index</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
