@@ -110,6 +110,12 @@
     </url>
   
     <url>
+      <loc>https://www.brinquedosbrinkben.com.br/novidades</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://www.brinquedosbrinkben.com.br/peteca</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -1844,9 +1850,9 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/novidades</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/spinner-ball-hamburguer-e-latinha-refri</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
+      <priority>0.9</priority>
     </url>
   
     <url>
@@ -1916,13 +1922,13 @@
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/app/index</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://www.brinquedosbrinkben.com.br/admin/index</loc>
+      <loc>https://www.brinquedosbrinkben.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
