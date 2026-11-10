@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.42b5c019c67086bc85c174b598f146c1.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.f7f99725b4e1c84f03bbd2b6cbc2c10e.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.02ab0ef83fb0e26a2f6282b93b8c065c.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.159e695b9b7bdb6df742a089ecde083f.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.45334cdcd10b5cd1d992e2705f913592.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Casa Ben",
+  "short_name": "casabenbrinquedos",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Para um Brincar livre, criativo e cheio de descobertas e aprendizado! \n\n",
+  "background_color": "#ffffff",
+  "theme_color": "#4dbfc5"
+}
