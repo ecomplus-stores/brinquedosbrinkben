@@ -1,6 +1,5 @@
 {
-  "domain": "www.brinquedosbrinkben.com.br",
-  "repository": "ecomplus-stores/brinquedosbrinkben",
+  "domain": "casabenbrinquedos.com.br",
   "currency_symbol": "R$",
   "primary_color": "#4dbfc5",
   "theme": {
@@ -8,19 +7,20 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo-melhor.png",
-  "name": "brinquedosbrinkben",
-  "short_name": "brinquedosbrinkben",
+  "repository": "ecomplus-stores/brinquedosbrinkben",
+  "logo": "/img/uploads/logo-nova-.jpeg",
+  "name": "Casa Ben",
+  "short_name": "casabenbrinquedos",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "Montserrat",
-  "favicon": "/img/uploads/logo-melhor.png",
+  "favicon": "/img/uploads/logo-nova-.jpeg",
   "icons_font": "line-awesome",
   "country_code": "BR",
   "secondary_color": "#cf608a",
-  "icon": "/img/uploads/logo-melhor.png",
+  "icon": "/img/uploads/logo-nova-.jpeg",
   "store_id": 47710,
   "description": "Para um Brincar livre, criativo e cheio de descobertas e aprendizado! \n\n",
-  "large_icon": "/img/uploads/logo-melhor.png"
+  "large_icon": "/img/uploads/logo-nova-.jpeg"
 }
