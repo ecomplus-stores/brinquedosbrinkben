@@ -33,11 +33,11 @@
       "title": "NOVIDADES",
       "headless": false,
       "limit": 12,
-      "page": 2
+      "page": 3
     },
     {
       "type": "dynamic-showcase",
-      "load_more": true,
+      "load_more": false,
       "sort": "news"
     },
     {
